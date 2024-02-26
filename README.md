@@ -3,7 +3,7 @@
   <a href="https://mahyrahalves.vercel.app/" target="_blank">link</a>
 </h2>
 
-This project was built using these technologies.
+Esse projeto contém essas tecnologias:
 
 - React.js
 - Node.js
@@ -13,9 +13,9 @@ This project was built using these technologies.
 - Vercel
 
 
-## Installation and Setup
+## Instalação
 
-1. Installation: `npm install`
+1. `npm install`
 
-2. In the project directory, you can run: `npm start`
+2. `npm start`
 
