@@ -15,11 +15,15 @@ function Home() {
               <h1 style={{ paddingBottom: 15 }} className="heading">
                 Oiê!{" "}
               </h1>
+              <b/>
+              <b/>
 
               <h1 className="heading-name">
                 Eu sou
                 <strong className="main-name"> Mahyrah Alves</strong>
               </h1>
+              <b/>
+              <b/>
 
               <div style={{ padding: 50, textAlign: "left" }}>
                 <Type />
@@ -31,7 +35,7 @@ function Home() {
                 src={homeLogo}
                 alt="home pic"
                 className="img-fluid"
-                style={{ maxHeight: "450px" }}
+                style={{ maxHeight: "520px" }}
               />
             </Col>
           </Row>
